@@ -26,7 +26,7 @@ export default function Page() {
         <div className="flex items-center justify-center gap-2 text-muted-foreground font-sans text-sm">
           <span>Hecho con</span>
           <Heart className="w-4 h-4 text-primary fill-primary animate-pulse-heart" />
-          <span>para ti</span>
+          <span>para vos</span>
         </div>
       </footer>
     </main>
